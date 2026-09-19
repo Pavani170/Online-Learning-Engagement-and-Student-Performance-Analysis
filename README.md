@@ -91,7 +91,3 @@ ORDER BY dropout_rate DESC;
 - **SQL** (MySQL syntax) — data aggregation and KPI calculation
 - **Power BI** — interactive dashboarding and visualization
 - **CSV** — raw data source
-
-## 📄 License
-
-Add your preferred license here (e.g. MIT).
